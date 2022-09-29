@@ -1,3 +1,3 @@
 # Bubble-Animation
 
-![Alt text](ScreenShots/ss.png?raw=true)
+![Alt text](screenShots/ss.png?raw=true)
